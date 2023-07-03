@@ -1,1 +1,1 @@
-b2a2bcd553896c4975665523a5fa9288
+"Enter your API key from open weather API"
