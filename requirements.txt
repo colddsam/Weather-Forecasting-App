@@ -1,0 +1,8 @@
+tk
+customtkinter
+requests
+geopy
+geocoder
+timezonefinder
+opencv-python
+pytz
